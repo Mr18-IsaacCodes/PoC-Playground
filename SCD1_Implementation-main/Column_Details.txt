@@ -1,0 +1,61 @@
+  Mysql Table:
+************
+custid integer(10)
+username varchar(30)
+quote_count varchar(30)
+ip varchar(30)
+entry_time varchar(30)
+prp_1 varchar(30)
+prp_2 varchar(30)
+prp_3 varchar(30)
+ms varchar(30)
+http_type varchar(30)
+purchase_category varchar(30)
+total_count varchar(30)
+purchase_sub_category varchar(30)
+http_info varchar(30)
+status_code integer(10)
+
+Managed Table Column Detail: 
+****************************
+custid int
+username string
+quote_count string
+ip string
+entry_time string
+prp_1 string
+prp_2 string
+prp_3 string
+ms string
+http_type string
+purchase_category string
+total_count string
+purchase_sub_category string
+http_info string
+status_code int
+
+External Table:
+***************
+custid int
+username string
+quote_count string
+ip string
+prp_1 string
+prp_2 string
+prp_3 string
+ms string
+http_type string
+purchase_category string
+total_count string
+purchase_sub_category string
+http_info string
+status_code int
+day int
+
+Partitions:
+***********
+Year String
+Month String
+
+
+
