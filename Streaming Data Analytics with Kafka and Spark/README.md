@@ -1,4 +1,4 @@
-# Real-Time Clickstream Data Processing with Spark Streaming and Kafka
+# Real-Time Clickstream Data Processing/Data Analytics with Kafka and Spark Streaming
 
 ## Overview
 
