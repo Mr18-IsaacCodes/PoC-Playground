@@ -1,0 +1,2 @@
+v1
+{"path":"file:///C:/kafka-poc/output/revenue_by_category/part-00000-ce0db100-7064-47c2-9b52-4968aa3bd44c-c000.snappy.parquet","size":720,"isDir":false,"modificationTime":1741156131240,"blockReplication":1,"blockSize":33554432,"action":"add"}
